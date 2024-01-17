@@ -1,0 +1,19 @@
+{
+  "item.advancedrocket.data_container": "Data Container",
+  "item.advancedrocket.tin_ingot": "Tin Ingot",
+  "item.advancedrocket.tin_raw": "Raw Tin",
+  "item.advancedrocket.ore_scanner" : "Ore Scanner",
+
+
+  "block.advancedrocket.tin_ore" : "Tin Ore",
+  "block.advancedrocket.rocket_builder": "Rocket Builder",
+
+
+  "creativetab.base_item_tab" : "Starting Items",
+  "creativetab.advanced_item_tab": "Advanced Items",
+  "creativetab.machine_tab": "Machines",
+  "creativetan.food_tab": "Space Food",
+
+
+  "tooltip.advancedrocket.ore_scanner_tooltip": "Find Ores underground"
+}
